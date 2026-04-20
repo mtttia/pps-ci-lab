@@ -1,0 +1,10 @@
+/**
+ * Cinnamon is a spice obtained from the inner bark of several tree species from the genus Cinnamomum. Cinnamon is used
+ * mainly as an aromatic condiment and flavoring additive in a wide variety of cuisines, in particular sweet and
+ * savoury dishes such as biscuits, breakfast cereals, snack foods, bagels, teas, hot chocolate, and traditional foods.
+ * The characteristic aroma and flavor of cinnamon derive from its essential oil and principal component,
+ * cinnamaldehyde, as well as numerous other constituents, including eugenol.
+ */
+class Cinnamon {
+
+}
